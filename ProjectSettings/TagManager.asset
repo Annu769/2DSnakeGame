@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SnakeHaed
+  - Food
+  - obs
+  - ScoreBooster
+  - ScorePoison
+  - Snake
+  - wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - GameLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: ui
+    uniqueID: 2432618495
+    locked: 0
+  - name: Food
+    uniqueID: 398688209
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: wall
+    uniqueID: 2388771285
+    locked: 0
